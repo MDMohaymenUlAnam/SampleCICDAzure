@@ -3,7 +3,7 @@ const app = express()
 
 
 app.get('/',(req,res)=> {
-    res.send('Welcome azure')
+    res.send('ID 42 has deployed on the azure')
 })
 
 
